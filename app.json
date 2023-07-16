@@ -35,7 +35,7 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "mongodb+srv://Narutokilluaa:Narutokilluaa@atlascluster.vi8cluc.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://killua:killua@cluster0.fjt3oob.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
